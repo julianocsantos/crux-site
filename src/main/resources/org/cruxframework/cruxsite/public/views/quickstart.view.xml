@@ -22,6 +22,9 @@
                Esse é um projeto base em Crux que já prepara todo o ambiente do Eclipse para desenvolvimento
                usando o Crux.</p>
             
+            
+            <p>Teste de alteração do GIT HUB.</p>
+            
 			<ol class="quickstartList">
                 <li>
                     <p>Baixar o arquivo XML de catálogo: <crux:anchor href="../downloads/crux-archetypes-5.2-catalog.xml"  
