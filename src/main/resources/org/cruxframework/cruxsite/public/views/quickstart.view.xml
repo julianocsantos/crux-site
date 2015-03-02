@@ -16,11 +16,14 @@
 	
     	<div class="container">
 		
-			<h2>Criando um projeto Crux em 5 minutos</h2>
+			<h2>Criando um projeto Crux em DOIS DIAS</h2>
 			
 			<p>Veja como criar um projeto, "Hello World", usando o Maven integrado ao ambiente Eclipse (plugin M2E). 
                Esse é um projeto base em Crux que já prepara todo o ambiente do Eclipse para desenvolvimento
                usando o Crux.</p>
+            
+            
+            <p>Teste de alteração do GIT HUB.</p>
             
 			<ol class="quickstartList">
                 <li>
