@@ -14,6 +14,8 @@
     onActivate="downloadController.onActivate"
      -->
 	
+	<!--  TESTE DO GIT -->
+	
 	<gwt:HTMLPanel id="infoContainer">
 	
 		<t:menuaprenda pageTitle="FAQ" />
