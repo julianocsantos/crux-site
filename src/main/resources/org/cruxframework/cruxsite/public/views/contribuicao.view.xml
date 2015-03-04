@@ -16,6 +16,9 @@
 		<div class="bigText">
 			<div class="container">
 				<h2>Como Contribuir?</h2>
+				
+				<p>Alteração programador 002 - principal</p>
+				
 				<p>Para contribuir com o desenvolvimento do Crux você pode repostar bugs no código e/ou enviar o código de correção.  
 				Caso seja criado algum componente novo ele também pode ser distribuído para os demais usuários do Crux.  
                 Outra forma, não menos importante de contribuir, é ajudando novos usuários a usar o Crux respondendo às dúvidas no fórum.  
