@@ -16,9 +16,13 @@
 	
 		<div class="container">
 			<h2>Aplicações exemplo com o Crux Framework</h2>	
+			
+			<p>Essa linha foi incluida pelo programador 001.</p>
+			
 			<p>Encontre aqui aplicações exemplo construídas com o Crux Framework. 
             Aprenda gradativamente, lendo o código, executando as aplicações 
             e modificando sua aparência e comportamento.</p>
+			
 			<ul class="examplesList">
 				
                 <li>
