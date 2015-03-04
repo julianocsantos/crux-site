@@ -32,6 +32,9 @@
                 <p>O envio de bugs ou proposta de melhorias podem ser feitas através de <i>Issues</i> no próprio Google Code. 
                    Por padrão os <i>Issues</i> devem ser feitos na língua  inglesa. 
                 </p>
+                
+                <p>Alteração programador 001 - principal</p>
+                
                 <p>Ao enviar as informações sobre um bug seja o mais claro possível. Além disso, descreva o ambiente e o 
                 passo-a-passo para que seja possível reproduzi-lo. Quanto melhor a descrição do bug mais rápido os 
                 desenvolvedores do Crux poderão fazer a correção. 
