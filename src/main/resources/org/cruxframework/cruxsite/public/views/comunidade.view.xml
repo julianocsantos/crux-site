@@ -18,6 +18,9 @@
 				<li>
 					<h2>Desenvolvimento de Aplicações com Crux</h2>
 					<p>Existem vários recursos para conhecer e aprender a desenvolver usando o Crux Framework: </p>
+					
+					<p> Novo conteúdo para commit </p>
+					
 					<ul class="communityItens" style="font-size: 15px;">
 					    <li>
 					    	<crux:anchor id="linkSaibaMais" href="#topMenuDisposal:saibamais" styleName="defaultLink" text="Saiba Mais"></crux:anchor>
@@ -40,6 +43,9 @@
 				</li>
 				<li>
 					<h2>Desenvolvimento do Crux Framework</h2>
+					
+					<p>Teste 46</p>
+					
 					<p>Para participar do desenvolvimento do Crux Framework ou de novos componentes Crux basta baixar os fontes e enviar suas contribuições. </p>
 				    <p>O Crux Framework é open source e seu código está disponível para download em: </p>
                     <ul class="communityItens" style="font-size: 15px;">
