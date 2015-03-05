@@ -25,6 +25,7 @@
 					<p> Novo conteúdo para commit MASTER </p>
 					<p> Novo conteúdo para commit MASTER </p>
 					<p> Novo conteúdo para commit MASTER </p>
+					<p> Novo conteúdo para commit MASTER </p>
 					<ul class="communityItens" style="font-size: 15px;">
 					    <li>
 					    	<crux:anchor id="linkSaibaMais" href="#topMenuDisposal:saibamais" styleName="defaultLink" text="Saiba Mais"></crux:anchor>
