@@ -18,6 +18,9 @@
 				<li>
 					<h2>Desenvolvimento de Aplicações com Crux</h2>
 					<p>Existem vários recursos para conhecer e aprender a desenvolver usando o Crux Framework: </p>
+					
+					<p> Novo conteúdo para commit </p>
+					
 					<ul class="communityItens" style="font-size: 15px;">
 					    <li>
 					    	<crux:anchor id="linkSaibaMais" href="#topMenuDisposal:saibamais" styleName="defaultLink" text="Saiba Mais"></crux:anchor>
