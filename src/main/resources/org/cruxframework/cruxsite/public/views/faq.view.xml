@@ -33,6 +33,8 @@
 					<gwt:HTMLPanel id="stackHtml">
 						<div class="stackContent">
 						
+							<p> TESTE novo</p>
+						
 							<p> TESTE 05 - principal</p>
 							
 							<p> TESTE 06 - principal</p>
