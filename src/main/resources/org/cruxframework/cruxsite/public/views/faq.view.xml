@@ -21,7 +21,10 @@
 		<t:menuaprenda pageTitle="FAQ" />
 	
 		<section class="container">	
-			<h2>Tem alguma dúvida? Confira se já não existe uma resposta no FAQ abaixo:</h2>	
+			<h2>Tem alguma dúvida? Confira se já não existe uma resposta no FAQ abaixo:</h2>
+			
+			<h2>novo BUG 5.3:</h2>
+				
 		</section>
 		<div class="container">
 		<gwt:stackPanel id="stackInfo">
@@ -218,3 +221,5 @@
 	</gwt:HTMLPanel>
 	
 </v:view>
+
+
