@@ -21,6 +21,5 @@
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.cruxframework.crux.tools.codeserver.CodeServer"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="-sourceDir src/main/java -webDir target/crux-site -moduleName cruxsite -startHotDeploymentScanner"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="crux-site"/>
-<stringAttribute key="org.eclipse.jdt.launching.SOURCE_PATH_PROVIDER" value="org.eclipse.m2e.launchconfig.sourcepathProvider"/>
 <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Xms256M -Xmx768M"/>
 </launchConfiguration>

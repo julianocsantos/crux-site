@@ -21,6 +21,5 @@
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.cruxframework.crux.module.launch.ModulesLauncher"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="-startupUrl cruxsite/index.html -war target/crux-site -gen generated -logLevel INFO"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="crux-site"/>
-<stringAttribute key="org.eclipse.jdt.launching.SOURCE_PATH_PROVIDER" value="org.eclipse.m2e.launchconfig.sourcepathProvider"/>
 <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Xss10768k -Xms800M -Xmx800M -Xdebug -DCrux.dev=true -Djava.naming.factory.initial=org.mortbay.naming.InitialContextFactory -DdebugEnabled=true"/>
 </launchConfiguration>
