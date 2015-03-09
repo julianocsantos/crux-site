@@ -8,6 +8,10 @@
 	<packaging>war</packaging>
 	<description>Crux Site</description>
 	<properties>
+	
+	
+		<.a,s.a,.a,sa
+	
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<cruxVersion>5.2.1</cruxVersion>
 		<webappDirectory>${project.build.directory}/${project.artifactId}</webappDirectory>
